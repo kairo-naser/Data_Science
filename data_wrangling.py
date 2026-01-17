@@ -1,3 +1,6 @@
+# data_wrangling.py
+# Data wrangling (or munging) is the process of cleaning and transforming raw data
+
 import pandas as pd
 import numpy as np
 

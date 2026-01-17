@@ -1,3 +1,4 @@
+# NumPy is a fundamental package for scientific computing in Python[cite: 495].
 import numpy as np # [cite: 496]
 
 # --- 1. CREATING ARRAYS ---

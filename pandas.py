@@ -1,3 +1,4 @@
+# pandas is a powerful library for data manipulation and analysis in Python[cite: 293].
 import pandas as pd # [cite: 294]
 import numpy as np # [cite: 295]
 

@@ -1,3 +1,5 @@
+# data_visualization.py
+# Data visualization is the graphical representation of information and data.
 import matplotlib.pyplot as plt # Import the plotting library
 
 # --- 1. THE BASIC PLOT HIERARCHY ---
